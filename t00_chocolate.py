@@ -1,12 +1,13 @@
 ######################################################################
-# Author: Dr. Scott Heggen           ****** TODO: CHANGE THIS!! ******
-# username: heggens             ****** TODO: CHANGE THIS!! *****
+# Author: Zyshavia Garrett
+# username: garrettz
 #
 # Purpose: Designed to compute the total chocolate desired by the user
 #
 ######################################################################
 # Acknowledgements:
-#
+# Shawn Villahermosa helped me with running the t00_chocolate program.
+
 # Modified from original code written by Dr. Jan Pearce
 #
 # Licensed under a Creative Commons
