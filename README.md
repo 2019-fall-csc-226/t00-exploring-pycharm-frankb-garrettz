@@ -1,9 +1,9 @@
 # T00: Exploring PyCharm
 
-Your Names: _____________________
+Your Names: Bryar Frank
 
             _____________________
             
-Google Doc Link: _____________________
+Google Doc Link: https://docs.google.com/document/d/1XxJFifK3JY4E7qMoMM1kIbFpOp6Shn12MLFcNL3bX_k/edit?usp=sharing
 
-Repo Link: _____________________
+Repo Link: https://github.com/2019-fall-csc-226/t00-exploring-pycharm-frankb-garrettz
